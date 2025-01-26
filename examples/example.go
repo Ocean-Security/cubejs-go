@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"time"
 
-	cube "github.com/TernaryInc/cubejs-go"
+	cube "github.com/Ocean-Security/cubejs-go"
 )
 
 const exampleAccessToken = "This is a fake example access token"
