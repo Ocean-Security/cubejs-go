@@ -1,4 +1,4 @@
-module github.com/TernaryInc/cubejs-go
+module github.com/Ocean-Security/cubejs-go
 
 go 1.17
 

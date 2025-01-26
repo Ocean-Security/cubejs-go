@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	cube "github.com/TernaryInc/cubejs-go"
+	cube "github.com/Ocean-Security/cubejs-go"
 	"github.com/stretchr/testify/assert"
 )
 
